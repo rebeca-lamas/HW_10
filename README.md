@@ -8,4 +8,4 @@ Based on the above queries, a Flask API was designed. It included the following 
 * /api/v1.0/stations
 * /api/v1.0/tobs
 * /api/v1.0/< start >
-/api/v1.0/<start>/<end>
+* /api/v1.0/< start >/< end >
